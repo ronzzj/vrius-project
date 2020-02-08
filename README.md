@@ -14,11 +14,13 @@
 
 #### 小程序截图
 
-<img src="/Users/zhouzejia/Desktop/截屏2020-02-0512.35.19.png" alt="截屏2020-02-0512.35.19" style="zoom: 50%;" />
+<img src="/Users/zhouzejia/Desktop/source/截屏2020-02-0512.35.19.png" style="zoom:50%;" />
 
-<img src="/Users/zhouzejia/Desktop/截屏2020-02-0512.35.52.png" alt="截屏2020-02-0512.35.52" style="zoom: 50%;" />
 
-<img src="/Users/zhouzejia/Desktop/截屏2020-02-0516.20.55.png" alt="截屏2020-02-0516.20.55" style="zoom: 50%;" />
+
+<img src="/Users/zhouzejia/Desktop/source/截屏2020-02-0516.20.55.png" style="zoom:50%;" />
+
+<img src="/Users/zhouzejia/Desktop/source/截屏2020-02-0512.35.52.png" style="zoom:50%;" />
 
 #### 数据接口API
 
